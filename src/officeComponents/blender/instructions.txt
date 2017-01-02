@@ -1,0 +1,15 @@
+Créer un nouveau projet Blender (CTRL+N)
+Dans la section Outliner, supprimer le cube par défaut.
+Ajouter l'objet. menu File, Append... (shift+F1)
+Sélectionner l'objet dans la section Outliner.
+Dans la section Properties, cliquez sur l'icône de cube (Object)
+Mettre les axes x, y et z à 0 sous Location:
+Cliquez sur la clé a molette (Object modifiers)
+Cliquez sur Add Modifier, sélectionner Triangulate, puis cliquez sur le bouton Apply
+Cliquez sur Add Modifier, sélectionner Edge Split, puis cliquez sur le bouton Apply
+Allez dans le menu Ficher, Export, choisir Wavefront (.obj)
+Dans la section Export OBJ, cochez Write Normals, Include UVs, Object as OBJ Objects
+Choisissez le nom et cliquez sur le bouton Export OBJ
+Dans la section UV/Image Editor, Cliquez sur l'icone de Browse Image to be linked.
+Choisir l'image, puis aller dans le menu Image, Save as Image (F3)
+Sélectionnez le format PNG, saisissez le nom puis cliquer sur Save as Image.
